@@ -1,4 +1,4 @@
-# NeurAmigo: Interactive Neuroscience Disease Learning App
+# NeurAmigo: Interactive Neuroscience Learning App
 
 NeurAmigo is an interactive neuroscience education app built with Swift Playgrounds, designed to make complex neurological concepts accessible and engaging. The platform features structured learning modules covering a wide range of neurological diseases, an interactive disease encyclopedia, and a personalized dashboard to track learning progress.
 
