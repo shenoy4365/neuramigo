@@ -6,18 +6,6 @@ The application provides on-device authentication via Keychain, detailed disease
 
 ---
 
-## 📸 Screenshots
-
-will be updating soon...
-
-<p align="center">
-  <img src="NeurAmigo_Dashboard_Screen.png" alt="Dashboard Screen" width="250"/>
-  <img src="NeurAmigo_Module_Screen.png" alt="Module Screen" width="250"/>
-  <img src="NeurAmigo_Disease_Encyclopedia_Screen.png" alt="Disease Encyclopedia Screen" width="250"/>
-</p>
-
----
-
 ## 🚀 Features
 
 - **Comprehensive disease modules** covering 15+ neurological conditions including Alzheimer's, Parkinson's, ALS, Multiple Sclerosis, and brain tumors
